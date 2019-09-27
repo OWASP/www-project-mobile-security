@@ -2,8 +2,8 @@
 
 layout: col-sidebar
 title: OWASP mobile security
-tags: example-tag
-level: 4
+tags: mobile
+level: 3
 
 ---
 
@@ -13,5 +13,16 @@ The OWASP Mobile Security Project is a centralized resource intended to give dev
 
 | **Project/deliverable** | **More info** | **Description** | **Current leaders** |
 |---|---|---|---|
-| Mobile Top Ten | [Project Page](https://www.owasp.org/index.php/Projects/OWASP_Mobile_Security_Project_-_Top_Ten_Mobile_Risks) | The OWASP Mobile Security top 10 is created to raise awareness for the current mobile security issues. | Jason Haddix - HP Fortify <br /> Daniel Miessler - HP Fortify <br /> Jonathan Carter - Arxan Technologies <br /> Milan Singh Thakur |
+| Mobile Top Ten | [Project Page](https://www.owasp.org/index.php/Projects/OWASP_Mobile_Security_Project_-_Top_Ten_Mobile_Risks) | The OWASP Mobile Security top 10 is created to raise awareness for the current mobile security issues. | Jason Haddix <br /> Daniel Miessler <br /> Jonathan Carter <br /> Milan Singh Thakur |
 | Mobile Security Testing Guide | [Project Page](https://www.owasp.org/index.php/OWASP_Mobile_Security_Testing_Guide) | A comprehensive manual for mobile app security testing and reverse engineering for iOS and Android mobile security testers as well as developers. | Sven Schleier <br/> Jeroen Willemsen <br/> Carlos Holguera |
+| Mobile Application Security Verification Standard | [Project Page](https://www.owasp.org/index.php/OWASP_Mobile_Security_Testing_Guide) | A standard for mobile app security which outlines the security requirements of a mobile application. | Sven Schleier <br/> Jeroen Willemsen <br/> Carlos Holguera |
+| Mobile Security Checklist | [Project Page](https://www.owasp.org/index.php/OWASP_Mobile_Security_Testing_Guide) | A checklist which allows easy mapping and scoring of the requirements from the Mobile Application Security Verification Standard based on the Mobile Security Testing Guide. | Sven Schleier <br/> Jeroen Willemsen <br/> Carlos Holguera |
+| iGoat Tool Project | [Project Page](https://www.owasp.org/index.php/OWASP_iGoat_Project) | A learning tool for iOS developers (iPhone, iPad, etc.). It was inspired by the WebGoat project, and has a similar conceptual flow to it. | Swaroop Yermalkar |
+| Damn Vulnerable iOS Application | [Project Page](https://www.owasp.org/index.php/OWASP_DVIA) | An iOS application that is damn vulnerable. Its main goal is to provide a platform to mobile security enthusiasts/professionals or students to test their iOS penetration testing skills in a legal environment. | Prateek Gianchandani |
+| Android CK project | [Project Page](https://www.owasp.org/index.php/Projects/OWASP_Androick_Project) | A python tool to help in forensics analysis on android. | Florian Pradines |
+| Seraphimdroid | [Project Page](https://www.owasp.org/index.php/OWASP_SeraphimDroid_Project) | A privacy and security protection app for Android devices. | Nikola Milosevic <br /> Kartik Kholi |
+| MSTG Hacking Playground | [Project Page](https://github.com/OWASP/MSTG-Hacking-Playground) | Sven Schleier <br/> Jeroen Willemsen <br/> Carlos Holguera |
+
+Not what you are looking for? Please have a look at the Mobile Security Page Archive
+
+Want to start a new mobile security project? Follow [https://www.owasp.org/index.php/Category:OWASP_Project#Starting_a_New_Project](https://www.owasp.org/index.php/Category:OWASP_Project#Starting_a_New_Project) or contact one of the leaders of the active projects.
