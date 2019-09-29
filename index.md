@@ -13,7 +13,7 @@ The OWASP Mobile Security Project is a centralized resource intended to give dev
 
 | **Project / deliverable** | **More info** | **Current leaders** | **Description** |
 |---|---|---|---|
-| Android CK project | <img width="200"/> [Project <br />Page](https://www.owasp.org/index.php/Projects/OWASP_Androick_Project) | <img width="200"/> Florian Pradines | A python tool to help in forensics analysis on android. |
+| <img width="250"/> Android CK project | <img width="200"/> [Project <br />Page](https://www.owasp.org/index.php/Projects/OWASP_Androick_Project) | <img width="200"/> Florian Pradines | A python tool to help in forensics analysis on android. |
 | Damn Vulnerable iOS Application | [Project <br />Page](https://www.owasp.org/index.php/OWASP_DVIA) | Prateek Gianchandani | An iOS application that is damn vulnerable. Its main goal is to provide a platform to mobile security enthusiasts/professionals or students to test their iOS penetration testing skills in a legal environment. |
 | iGoat Tool Project | [Project <br />Page](https://www.owasp.org/index.php/OWASP_iGoat_Project) | Swaroop Yermalkar | A learning tool for iOS developers (iPhone, iPad, etc.). It was inspired by the WebGoat project, and has a similar conceptual flow to it. |
 | Mobile Application Security Verification Standard | [Project <br />Page](https://www2.owasp.org/www-project-mobile-security-testing-guide/) | Sven Schleier <br/> Jeroen Willemsen <br/> Carlos Holguera | A standard for mobile app security which outlines the security requirements of a mobile application. |
