@@ -23,6 +23,6 @@ The OWASP Mobile Security Project is a centralized resource intended to give dev
 | MSTG Hacking Playground <br />[Project Page](https://github.com/OWASP/MSTG-Hacking-Playground) | Sven Schleier <br/> Jeroen Willemsen <br/> Carlos Holguera | A hacking playground with various vulnerable mobile apps for Android and iOS. |
 | Seraphimdroid <br />[Project Page](https://www.owasp.org/index.php/OWASP_SeraphimDroid_Project) | Nikola Milosevic <br /> Kartik Kholi | A privacy and security protection app for Android devices. |
 
-Not what you are looking for? Please have a look at the [Mobile Security Page Archive](https://www.owasp.org/index.php/OWASP_Mobile_Security_Project).
+Not what you are looking for? Please have a look at the [Old Mobile Security page](https://wiki.owasp.org/index.php/OWASP_Mobile_Security_Project#tab=Main) and the [Mobile Security Archive](https://wiki.owasp.org/index.php/Mobile_Security_Project_Archive).
 
-Want to start a new mobile security project? Follow [https://www.owasp.org/index.php/Category:OWASP_Project#Starting_a_New_Project](https://www.owasp.org/index.php/Category:OWASP_Project#Starting_a_New_Project) or contact one of the leaders of the active projects.
+Want to start a new mobile security project? Follow [https://www.owasp.org/index.php/Category:OWASP_Project#Starting_a_New_Project](https://owasporg.atlassian.net/servicedesk/customer/portal/7/create/70?src=-1419759666) or contact one of the leaders of the active projects.
