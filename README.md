@@ -1,4 +1,4 @@
-# Mobile Security project web page repo
+# Mobile Security Project Web Page Repo
 
 This is the repo for https://owasp.org/www-project-mobile-security/. It is maintained by multiple people at the moment, but no owner has been assigned.
 
